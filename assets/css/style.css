@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.clear{
+    clear: both;
+}
+
+.places-list{
+    width: 1920px;
+    height: 1088px;
+    background-color: #ccc;
+    padding: 180px 355px 144px;
+    box-sizing: border-box;
+}
+
+.places-item{
+    float: left;
+    width: 33.33333%;
+    padding: 0 21px;
+    text-align:center;
+}
+
+.places-head{
+    /* background-image: radial-gradient(places-head,transparent 66%); */
+    height: 123px;
+    width: 123px;
+    display: inline-block;
+}
+
+.places-price{
+
+}
+
+.places-text{
+
+}
+
+.places-slider{
+    width: 360px;
+    height: 269px;
+    font-weight: 400;
+}
+
+#ocean{
+    background: url('/assets/img/ocean.png') top center / cover no-repeat;
+}
+
+#mountain{
+    background: url('/assets/img/mountain.png') top center / cover no-repeat;
+}
+
+#forest{
+    background: url('/assets/img/forest.png') top center / cover no-repeat;
+}
+
+.text-heading{
+    font-weight: 350;
+    color: #fff;
+    line-height: ;
+
+}
+
+.places-body{
+
+}
+
+.places-sub-heading{
+
+}
+
+.places-sub-text{
+
+}
+
+.places-sub-body{
+
+}
+
+.places-sub-btn{
+
+}
